@@ -6,4 +6,5 @@
 ##My take
 This implementation of the spec primarily utilizes a class that uses class methods and variables to act as a proxy for a ORM object. This means the changes needed to implement a database is a simple Ctrl-f replace through the codebase. (as well as any normal database setup)
 
-##intallation
+##installation
+clone this repo, then run `rails s -p 4000` in a bash window.
